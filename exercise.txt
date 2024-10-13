@@ -1,3 +1,5 @@
 1. Explain what the terminal is in your own words.
+A terminal is an app on a Mac operating system that allows a user to send commands for a computer. 
 2. What is the major difference between Git and GitHub?
+GitHub is a GitHub repository hosting service. Git is a widely used version control system.
 3. What are the steps to fork a GitHub repository?
